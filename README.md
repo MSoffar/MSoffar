@@ -25,7 +25,7 @@ Welcome to my corner of GitHub! I'm not just passionate about coding—I'm havin
 - When I'm not coding, I'm probably thinking about how I could automate it! 😄
 
 ## 🌍 Let’s Connect:
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/mohamed-soffar-abb615280)
+- [LinkedIn] (https://www.linkedin.com/in/mohamed-soffar-abb615280/)
 
 
 <!---
